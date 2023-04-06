@@ -15,7 +15,7 @@ This code is a test implementation of training the EfficientDet model using effd
 
 This code is based on [the blog article](https://endaaman.me/tips/training-effcientdet-pytorch) written in Japanese, and my contribution is explained in [this article](https://dev.to/nekot0/efficientdet-implementation-in-a-simple-setting-4em3) written by myself. 
 
-__**Requirements**__
+**__Requirements__**
 - [effdet-0.3.0 modified by myself](https://www.kaggle.com/datasets/nekot0/effdet-030-package-dataset)
 - omegaconf-2.3.0
 - timm-0.6.13
