@@ -15,7 +15,7 @@ This code is a test implementation of training the EfficientDet model using effd
 
 This code is based on [the blog article](https://endaaman.me/tips/training-effcientdet-pytorch) written in Japanese, and my contribution is explained in [this article](https://dev.to/nekot0/efficientdet-implementation-in-a-simple-setting-4em3) written by myself. 
 
-**Requirements**
+__**Requirements**__
 - [effdet-0.3.0 modified by myself](https://www.kaggle.com/datasets/nekot0/effdet-030-package-dataset)
 - omegaconf-2.3.0
 - timm-0.6.13
@@ -35,7 +35,7 @@ The errors we potentially meet when running the code are explained in the blogs 
 [Errors in the implementation of model training with effdet (5 April)](https://dev.to/nekot0/errors-in-the-implementation-of-model-training-with-effdet-4pcd)
 ... to be continued
 
-**Requirements**
+__**Requirements**__
 - [effdet-0.3.0 modified by myself](https://www.kaggle.com/datasets/nekot0/effdet-030-package-dataset)
 - omegaconf-2.3.0
 - timm-0.6.13
