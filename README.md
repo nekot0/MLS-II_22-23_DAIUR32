@@ -9,7 +9,7 @@ This repository is part of the assignment of Applied Machine Learning Systems II
 
 ## Descriptions
 
-### file 1 ([run on Kaggle](https://www.kaggle.com/code/nekot0/effdet-simpletest))
+### effdet-test-in-simple-setting.ipynb ([run on Kaggle](https://www.kaggle.com/code/nekot0/effdet-simpletest))
 
 This code is a test implementation of training the EfficientDet model using effdet, a pytorch-based implementation of EfficientDet. It deals with a task in a simple setting where the imput images have one red circle on a black square background. The model is trained to output the potential bounding boxes for a red circle. 
 
@@ -27,7 +27,7 @@ This code is based on [the blog article](https://endaaman.me/tips/training-effci
 
 
 
-### file 2 ([run on Kaggle](https://www.kaggle.com/code/nekot0/siim-covid19-detection-effdet-basecase))
+### siim-covid19-detection-effdet-basecase.ipynb ([run on Kaggle](https://www.kaggle.com/code/nekot0/siim-covid19-detection-effdet-basecase))
 
 This code is part of the model developed in my report. It makes a database of the training data and fine-tunes an EfficientDet model implemented with effdet so that the model outupts for each image potential bounding boxes and classes predicted. 
 
