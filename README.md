@@ -28,6 +28,7 @@ This code is based on [the blog article](https://endaaman.me/tips/training-effci
 
 
 ### siim-covid19-detection-effdet-basecase.ipynb ([run on Kaggle](https://www.kaggle.com/code/nekot0/siim-covid19-detection-effdet-basecase))
+Latest: v2
 
 This code is part of the model developed in my report. It makes a database of the training data and fine-tunes an EfficientDet model implemented with effdet so that the model outupts for each image potential bounding boxes and classes predicted. 
 
